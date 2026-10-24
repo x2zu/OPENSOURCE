@@ -1,4 +1,4 @@
--- Deobfuscated by .gg/x2zu
+-- Deobfuscated by @x2zu
 -- DISCORD SERVER : https://discord.gg/bRSjbF89RC
 
 if not game:IsLoaded() then
